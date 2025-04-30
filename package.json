@@ -1,0 +1,21 @@
+{
+  "name": "com.mirrornetworking.mirror",
+  "version": "96.6.3",
+  "displayName": "Mirror",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/MirrorNetworking/Mirror/blob/master/README.md",
+  "changelogUrl": "https://github.com/MirrorNetworking/Mirror/releases/tag/v96.6.3",
+  "licensesUrl": "https://github.com/MirrorNetworking/Mirror/blob/master/LICENSE",
+  "keywords": [
+    "mirror"
+  ],
+  "dependencies": {
+   },
+  "samples": [
+  ],
+  "author": {
+    "name": "Chaoyang",
+    "email": "charlie.song@bondee.com",
+    "url": "https://gitlab.bondee-inc.com/charlie.song/unity_mirror.git"
+  }
+}
